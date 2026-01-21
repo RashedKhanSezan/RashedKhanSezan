@@ -5,15 +5,6 @@
 - Driven to craft **cross-platform** solutions that are both elegant and impactful
 - I see apps as **stories told through design & code**
 
-
----
-
-## 🚀 Current Focus
-- 🔭 Learning & mastering **Flutter + Dart** to deliver **performant & elegant apps**  
-- 🎨 Exploring **modern UI/UX** principles to craft engaging user experiences  
-- ☁️ Experimenting with **Firebase & cloud integrations**  
-- 🖥 Expanding to **desktop applications** to bridge mobile & PC worlds  
-
 ---
 
 ## 📌 Tech Playground
