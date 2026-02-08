@@ -20,9 +20,9 @@
 ---
  
 ## 🌌 Beyond the Code
-✨ I’m not just coding — I’m **creating experiences**.  
-🧩 Every app I build is a mix of **logic, creativity, and design**.  
-🎶 When I’m not coding, I explore tech trends, listen to music, and imagine the next app idea.  
+୧⍤⃝ I’m not just coding — I’m **creating experiences**.  
+୧⍤⃝ Every app I build is a mix of **logic, creativity, and design**.  
+୧⍤⃝ When I’m not coding, I explore tech trends, listen to music, and imagine the next app idea.  
 
 <h3 align="center">📫 Let's Connect!</h3>
 <p align="center">
