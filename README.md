@@ -31,7 +31,6 @@
   <a href="rashedkhansezan@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </p>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%"/>
-</p>
-<p align="center">✨ Building apps today, shaping experiences for tomorrow ✨</p>
+---
+
+<p align="center">🎈 Building apps today, shaping experiences for tomorrow </p>
